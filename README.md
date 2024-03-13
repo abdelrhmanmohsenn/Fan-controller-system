@@ -5,6 +5,7 @@ This project is a Fan Controller System based on two PIC18F46K20 microcontroller
 - Two PIC18F46K20 microcontrollers
 - TC74 temperature sensor
 - DC motor for fan control
+- motor driver
 - RealTimeClockDS1307 for time tracking
 - EEPROM_24C02C for storing 
 
