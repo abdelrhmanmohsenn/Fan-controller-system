@@ -5,8 +5,6 @@ This readme explains the code for the master controller of an embedded fan contr
 
 ## Code Explanation
 ### Initialization
-- `main()`: This function initializes the device, enables interrupts, and starts the main loop.
-  
 - `SYSTEM_Initialize()`: Initializes the device peripherals and configurations.
   
 - `INTERRUPT_GlobalInterruptHighEnable()`: Enables high priority global interrupts.
