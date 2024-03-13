@@ -1,7 +1,7 @@
 # 🌀 Slave Controller Code 
 
 ## Overview
-the slave controller of an embedded fan controller system. The slave controller, based on the PIC18F46K20 microcontroller, communicates with a master controller via the I2C bus. It receives temperature data from the master and controls a DC motor based on the received temperature value. This readme provides an overview of the slave controller code and its functionalities.
+The slave controller, based on the PIC18F46K20 microcontroller, communicates with a master controller via the I2C bus. It receives temperature data from the master and controls a DC motor based on the received temperature value. This readme provides an overview of the slave controller code and its functionalities.
 
 ## Code Explanation
 ### Initialization
