@@ -1,7 +1,7 @@
-# 🌀 Master Controller Code Readme 🌀
+# 🌀 Master Controller 
 
 ## Overview
-This readme explains the code for the master controller of an embedded fan controller system. The master controller, based on the PIC18F46K20 microcontroller, communicates with a slave controller via the I2C bus. It reads temperature data from a TC74 sensor and sends this data to the slave controller for fan speed control. Additionally, it interacts with a Real Time Clock (DS1307) and an EEPROM (24C02C) for system initialization and logging.
+The master controller, based on the PIC18F46K20 microcontroller, communicates with a slave controller via the I2C bus. It reads temperature data from a TC74 sensor and sends this data to the slave controller for fan speed control. Additionally, it interacts with a Real Time Clock (DS1307) and an EEPROM (24C02C) for system initialization and logging.
 
 ## Code Explanation
 ### Initialization
