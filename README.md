@@ -1,4 +1,4 @@
-### 🌪️ Fan Controller System 
+# 🌪️ Fan Controller System 
 This project is a Fan Controller System based on two PIC18F46K20 microcontrollers communicating with each other through the I2C bus. One microcontroller acts as the master controller, responsible for timekeeping and temperature sensing, while the other serves as the slave controller, controlling the fan based on temperature readings. Here's a breakdown of the system:
 
 ## Hardware Requirements
