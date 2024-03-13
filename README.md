@@ -18,9 +18,6 @@ This project is a Fan Controller System based on two PIC18F46K20 microcontroller
 - Monitors the ambient temperature received from the Master Controller.
 - Controls a DC motor for fan operation based on temperature thresholds.
 
-## Acknowledgements
-This project utilizes Microchip's MCC generated files for I2C communication, real-time clock, EEPROM, and temperature sensor interfacing.
-
 ## schematic
 ![image](https://github.com/abdelrhmanmohsenn/Fan-controller-system/assets/146861505/68891ca1-5b78-418b-a99c-6f3c7936c0b0)
 
@@ -28,3 +25,5 @@ This project utilizes Microchip's MCC generated files for I2C communication, rea
 - Make sure to properly initialize the I2C bus and configure the communication addresses.
 - Adjust temperature thresholds and fan speed control as needed for your application.
 
+## Acknowledgements
+This project utilizes Microchip's MCC generated files for I2C communication, real-time clock, EEPROM, and temperature sensor interfacing.
